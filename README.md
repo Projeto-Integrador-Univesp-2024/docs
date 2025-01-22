@@ -94,10 +94,9 @@ Siga os padrões de código definidos para o projeto:
 ---
 
 ## **6. Links Importantes**
-- [Documentação Backend](a)
-- [Documentação Frontend](a)
+- [Documentação Backend](https://github.com/Projeto-Integrador-Univesp-2024/backend/blob/main/README.md)
+- [Documentação Frontend](https://github.com/Projeto-Integrador-Univesp-2024/client/blob/main/README.md)
 - [Diagrama do Banco de Dados](a)
-- [Guia de Contribuição](a)
 
 ---
 
